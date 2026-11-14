@@ -1,6 +1,12 @@
 # Data
 /data/
 
+# Artefatos regenerados pelo notebook exploratório.
+/reports/profiling/
+/reports/eda/
+/reports/figures/eda/
+/reports/notebooks/
+
 # Mac OS-specific storage files
 .DS_Store
 
